@@ -14,5 +14,5 @@ Projek ini adalah contoh implementasi sistem login dan register sederhana menggu
    - Pastikan Anda telah menginstal PHP, MySQL, dan CodeIgniter 4 pada sistem Anda.
 
 ## Screenshoot
-!https://github.com/HakuHikari/Login_Register_CI4/issues/2#issue-2052127312
-!https://github.com/HakuHikari/Login_Register_CI4/issues/1#issue-2052125030
+![ss1](./image.png)
+![ss2](./daftar.png)
